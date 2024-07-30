@@ -1,6 +1,6 @@
 # Module19_BranchedNeuralNetwork_HRChallenge
 
-In this challenge we were tasked with creating a neural network clasiification and prediction model to predict whether employees are likely to leave the company as well as if an employee may be better suited to other departments. We created Functional API and softmax activation model using Tensorflow keras which gave 81.52% Attrition accuracy and 64.13% Department accuracy, based on the data (csv) provided by the company.
+In this challenge we were tasked with creating a neural network classiification and prediction model to predict whether employees are likely to leave the company as well as if an employee may be better suited to other departments. We created Functional API and softmax activation model using Tensorflow keras which gave 81.52% Attrition accuracy and 64.13% Department accuracy, based on the data (csv) provided by the company.
 
 Authors & Citation
 
